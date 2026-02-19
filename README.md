@@ -262,6 +262,3 @@ Ce projet est né d'une conviction : les compétences de coordination terrain (p
 déléguer, synthétiser, livrer) se mappent directement sur l'architecture des agents IA.
 Le SDK Anthropic est le nouveau CCTP.
 
----
-
-*Construit avec le SDK Anthropic · Python 3.11 · Dunkerque, 2026*
