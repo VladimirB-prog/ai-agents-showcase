@@ -256,7 +256,7 @@ densités matériaux) sont issus de pratiques terrain BTP, pas de placeholders.
 
 ## Auteur
 
-**Vlad** — Conducteur de travaux TP chez SRC Dunkerque, en reconversion vers l'ingénierie IA.
+**Vlad** — Conducteur de travaux TP, en reconversion vers l'ingénierie IA.
 
 Ce projet est né d'une conviction : les compétences de coordination terrain (planifier,
 déléguer, synthétiser, livrer) se mappent directement sur l'architecture des agents IA.
